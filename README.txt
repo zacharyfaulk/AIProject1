@@ -11,3 +11,6 @@ http://www.tsp.gatech.edu for more info)
 o You will be expected to use brute force to calculate the minimum cost paths for a
 series of problems.
 o Data for each problem will be supplied in a .tsp file (a plain text file).
+
+Solved by finding all permutations and calculating the distance of each permutation.
+AI Reports Link: https://drive.google.com/drive/folders/0By--ZxTFsr-mZDR5dUt6bElHajg?usp=sharing
